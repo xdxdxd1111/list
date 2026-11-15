@@ -1,336 +1,456 @@
-# Domenii
-127.0.0.1 2975c.v.fwmrm.net
-127.0.0.1 a.klaviyo.com
-127.0.0.1 a.lenovo.com
-127.0.0.1 a.teads.tv
-127.0.0.1 aan.amazon.com
-127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 acdn.adnxs.com
-127.0.0.1 ad.crwdcntrl.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.gt
-127.0.0.1 ad.lgappstv.com
-127.0.0.1 ad.linksynergy.com
-127.0.0.1 ad.mail.ru
-127.0.0.1 adc3-launch.adcolony.com
-127.0.0.1 adclick.g.doubleclick.net
-127.0.0.1 adfox.yandex.ru
-127.0.0.1 adfstat.yandex.ru
-127.0.0.1 adlog.vivo.com
-127.0.0.1 adm.hotjar.com
-127.0.0.1 adnxs.com
-127.0.0.1 adroll.com
-127.0.0.1 ads-api.tiktok.com
-127.0.0.1 ads-api.twitter.com
-127.0.0.1 ads-api.vivo.com
-127.0.0.1 ads-api.x.com
-127.0.0.1 ads-sg.tiktok.com
-127.0.0.1 ads.huawei.com
-127.0.0.1 ads.linkedin.com
-127.0.0.1 ads.microsoft.com
-127.0.0.1 ads.pinterest.com
-127.0.0.1 ads.pubmatic.com
-127.0.0.1 ads.roku.com
-127.0.0.1 ads.snapchat.com
-127.0.0.1 ads.stickyadstv.com
-127.0.0.1 ads.tiktok.com
-127.0.0.1 ads.tremorhub.com
-127.0.0.1 ads.vizio.com
-127.0.0.1 ads.vk.com
-127.0.0.1 ads.x.com
-127.0.0.1 ads.yahoo.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 ads30.adcolony.com
-127.0.0.1 adserver.unityads.unity3d.com
-127.0.0.1 adservetx.media.net
-127.0.0.1 adservice.google.com
-127.0.0.1 adsfs.oppomobile.com
-127.0.0.1 adsrvr.org
-127.0.0.1 adtago.s3.amazonaws.com
-127.0.0.1 adtech.yahooinc.com
-127.0.0.1 advertising-api-eu.amazon.com
-127.0.0.1 advertising.apple.com
-127.0.0.1 advertising.yahoo.com
-127.0.0.1 advertising.yandex.ru
-127.0.0.1 advice-ads.s3.amazonaws.com
-127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 afs.googlesyndication.com
-127.0.0.1 amazon-adsystem.com
-127.0.0.1 amoeba.web.roku.com
-127.0.0.1 an.facebook.com
-127.0.0.1 analytics-api.samsunghealthcn.com
-127.0.0.1 analytics-sg.tiktok.com
-127.0.0.1 analytics.adobe.io
-127.0.0.1 analytics.google.com
-127.0.0.1 analytics.pinterest.com
-127.0.0.1 analytics.pointdrive.linkedin.com
-127.0.0.1 analytics.query.yahoo.com
-127.0.0.1 analytics.s3.amazonaws.com
-127.0.0.1 analytics.tiktok.com
-127.0.0.1 analytics.twitter.com
-127.0.0.1 analytics.x.com
-127.0.0.1 analytics.yahoo.com
-127.0.0.1 analyticsengine.s3.amazonaws.com
-127.0.0.1 apex.go.sonobi.com
-127.0.0.1 api-adservices.apple.com
-127.0.0.1 api-js.mixpanel.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 api.amplitude.com
-127.0.0.1 api.bugsnag.com
-127.0.0.1 api.fyber.com
-127.0.0.1 api.luckyorange.com
-127.0.0.1 api.mixpanel.com
-127.0.0.1 api.mouseflow.com
-127.0.0.1 api.onesignal.com
-127.0.0.1 api.optimizely.com
-127.0.0.1 api.partnerstack.com
-127.0.0.1 api.rlcdn.com
-127.0.0.1 api.segment.io
-127.0.0.1 api.taboola.com
-127.0.0.1 api.viglink.com
-127.0.0.1 api.vungle.com
-127.0.0.1 api2.amplitude.com
-127.0.0.1 api2.branch.io
-127.0.0.1 app.adjust.com
-127.0.0.1 app.appsflyer.com
-127.0.0.1 app.bugsnag.com
-127.0.0.1 app.getsentry.com
-127.0.0.1 app.posthog.com
-127.0.0.1 app.usercentrics.eu
-127.0.0.1 applovin.com
-127.0.0.1 appmetrica.yandex.ru
-127.0.0.1 appsflyer.com
-127.0.0.1 as.casalemedia.com
-127.0.0.1 auction.unityads.unity3d.com
-127.0.0.1 b.scorecardresearch.com
-127.0.0.1 bam-cell.nr-data.net
-127.0.0.1 bam.nr-data.net
-127.0.0.1 bat.bing.com
-127.0.0.1 bdapi-ads.realmemobile.com
-127.0.0.1 bdapi-in-ads.realmemobile.com
-127.0.0.1 bea4.v.fwmrm.net
-127.0.0.1 bidder.criteo.com
-127.0.0.1 bidswitch.net
-127.0.0.1 bingads.microsoft.com
-127.0.0.1 bluekai.com
-127.0.0.1 bnc.lt
-127.0.0.1 books-analytics-events.apple.com
-127.0.0.1 browser-intake-datadoghq.com
-127.0.0.1 browser.events.data.msn.com
-127.0.0.1 browser.sentry-cdn.com
-127.0.0.1 business-api.tiktok.com
-127.0.0.1 c.amazon-adsystem.com
-127.0.0.1 c.bing.com
-127.0.0.1 c.clarity.ms
-127.0.0.1 c.gumgum.com
-127.0.0.1 capi.connatix.com
-127.0.0.1 careers.hotjar.com
-127.0.0.1 casalemedia.com
-127.0.0.1 cd.connatix.com
-127.0.0.1 cdn-test.mouseflow.com
-127.0.0.1 cdn.cookielaw.org
-127.0.0.1 cdn.doubleverify.com
-127.0.0.1 cdn.dynamicyield.com
-127.0.0.1 cdn.heapanalytics.com
-127.0.0.1 cdn.indexexchange.com
-127.0.0.1 cdn.kargo.com
-127.0.0.1 cdn.lr-ingest.com
-127.0.0.1 cdn.luckyorange.com
-127.0.0.1 cdn.mgid.com
-127.0.0.1 cdn.mouseflow.com
-127.0.0.1 cdn.onesignal.com
-127.0.0.1 cdn.optimizely.com
-127.0.0.1 cdn.permutive.com
-127.0.0.1 cdn.privacy-mgmt.com
-127.0.0.1 cdn.rudderlabs.com
-127.0.0.1 cdn.segment.com
-127.0.0.1 cdn.siftscience.com
-127.0.0.1 cdn.taboola.com
-127.0.0.1 cdn.teads.tv
-127.0.0.1 cdn.viglink.com
-127.0.0.1 ck.ads.oppomobile.com
-127.0.0.1 clarity.ms
-127.0.0.1 claritybt.freshmarketer.com
-127.0.0.1 click.googleanalytics.com
-127.0.0.1 click.linksynergy.com
-127.0.0.1 click.mailchimp.com
-127.0.0.1 click.oneplus.cn
-127.0.0.1 clickadu.com
-127.0.0.1 clientstream.launchdarkly.com
-127.0.0.1 cloudflareinsights.com
-127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 cmp.inmobi.com
-127.0.0.1 cmp.osano.com
-127.0.0.1 cmp.usercentrics.eu
-127.0.0.1 coinimp.com
-127.0.0.1 config.samsungads.com
-127.0.0.1 config.unityads.unity3d.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 consent.cookiebot.com
-127.0.0.1 consent.trustarc.com
-127.0.0.1 consentcdn.cookiebot.com
-127.0.0.1 contextual.media.net
-127.0.0.1 contextweb.com
-127.0.0.1 control.kochava.com
-127.0.0.1 cookiebot.com
-127.0.0.1 criteo.com
-127.0.0.1 crwdcntrl.net
-127.0.0.1 cs.luckyorange.net
-127.0.0.1 ct.pinterest.com
-127.0.0.1 customer.io
-127.0.0.1 d.adroll.com
-127.0.0.1 d.applovin.com
-127.0.0.1 d.impactradius-event.com
-127.0.0.1 d.reddit.com
-127.0.0.1 dai.google.com
-127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 data.mistat.india.xiaomi.com
-127.0.0.1 data.mistat.rus.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 dc.ads.linkedin.com
-127.0.0.1 decide.mixpanel.com
-127.0.0.1 device-metrics-us-2.amazon.com
-127.0.0.1 device-metrics-us.amazon.com
-127.0.0.1 dis.criteo.com
-127.0.0.1 doubleverify.com
-127.0.0.1 eb2.3lift.com
-127.0.0.1 edge.fullstory.com
-127.0.0.1 eu.posthog.com
-127.0.0.1 events.hotjar.io
-127.0.0.1 events.launchdarkly.com
-127.0.0.1 events.reddit.com
-127.0.0.1 events.redditmedia.com
-127.0.0.1 events.segment.io
-127.0.0.1 events3alt.adcolony.com
-127.0.0.1 exoclick.com
-127.0.0.1 extmaps-api.yandex.net
-127.0.0.1 fastlane.rubiconproject.com
-127.0.0.1 fingerprintjs.com
-127.0.0.1 firebase-settings.crashlytics.com
-127.0.0.1 fls-na.amazon.com
-127.0.0.1 fpjs.io
-127.0.0.1 freshmarketer.com
-127.0.0.1 fw.adsafeprotected.com
-127.0.0.1 fwtracks.freshmarketer.com
-127.0.0.1 g.jwpsrv.com
-127.0.0.1 gemini.yahoo.com
-127.0.0.1 geo.yahoo.com
-127.0.0.1 geolocation.onetrust.com
-127.0.0.1 globalapi.ad.xiaomi.com
-127.0.0.1 go.redirectingat.com
-127.0.0.1 go.skimresources.com
-127.0.0.1 google-analytics.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 googleadservices.com
-127.0.0.1 googletagmanager.com
-127.0.0.1 googletagservices.com
-127.0.0.1 graph.facebook.com
-127.0.0.1 graph.instagram.com
-127.0.0.1 grs.hicloud.com
-127.0.0.1 gtm.mouseflow.com
-127.0.0.1 gum.criteo.com
-127.0.0.1 hbopenbid.pubmatic.com
-127.0.0.1 htlb.casalemedia.com
-127.0.0.1 htlbid.com
-127.0.0.1 i.instagram.com
-127.0.0.1 iadsdk.apple.com
-127.0.0.1 ib.adnxs.com
-127.0.0.1 id5-sync.com
-127.0.0.1 identify.hotjar.com
-127.0.0.1 idsync.rlcdn.com
-127.0.0.1 image6.pubmatic.com
-127.0.0.1 images.taboola.com
-127.0.0.1 in.hotjar.com
-127.0.0.1 indexexchange.com
-127.0.0.1 info.lgsmartad.com
-127.0.0.1 ingest.sentry.io
-127.0.0.1 init.supersonicads.com
-127.0.0.1 inmobi.com
-127.0.0.1 insightexpressai.com
-127.0.0.1 insights.adsrvr.org
-127.0.0.1 insights.hotjar.com
-127.0.0.1 iot-eu-logser.realme.com
-127.0.0.1 iot-logser.realme.com
-127.0.0.1 ir-na.amazon-adsystem.com
-127.0.0.1 ironsource.mobi
-127.0.0.1 js.driftt.com
-127.0.0.1 juicyads.com
-127.0.0.1 kochava.com
-127.0.0.1 liftoff.io
-127.0.0.1 list-manage.com
-127.0.0.1 live.chartboost.com
-127.0.0.1 log.byteoversea.com
-127.0.0.1 log.fc.yahoo.com
-127.0.0.1 log.outbrain.com
-127.0.0.1 log.pinterest.com
-127.0.0.1 logbak.hicloud.com
-127.0.0.1 logs.roku.com
-127.0.0.1 logservice.hicloud.com
-127.0.0.1 logservice1.hicloud.com
-127.0.0.1 logx.optimizely.com
-127.0.0.1 luckyorange.com
-127.0.0.1 m.doubleclick.net
-127.0.0.1 mads-eu.amazon.com
-127.0.0.1 match.adsrvr.org
-127.0.0.1 mc.yandex.ru
-127.0.0.1 mcs-va.tiktokv.com
-127.0.0.1 media.net
-127.0.0.1 mediavisor.doubleclick.net
-127.0.0.1 metrics.adobe.com
-127.0.0.1 metrics.apple.com
-127.0.0.1 metrics.brightcove.com
-127.0.0.1 metrics.data.hicloud.com
-127.0.0.1 metrics.icloud.com
-127.0.0.1 metrics.mzstatic.com
-127.0.0.1 metrics2.data.hicloud.com
-127.0.0.1 metrika.yandex.ru
-127.0.0.1 mgid.com
-127.0.0.1 mineralt.io
-127.0.0.1 minero.cc
-127.0.0.1 mon.byteoversea.com
-127.0.0.1 mon.tiktokv.com
-127.0.0.1 monerominer.rocks
-127.0.0.1 mouseflow.com
-127.0.0.1 ms.applovin.com
-127.0.0.1 mssl.fwmrm.net
-127.0.0.1 munchkin.marketo.net
-127.0.0.1 ngfts.lge.com
-127.0.0.1 nmetrics.samsung.com
-127.0.0.1 notes-analytics-events.apple.com
-127.0.0.1 notify.bugsnag.com
-127.0.0.1 nr.taboola.com
-127.0.0.1 o0.ingest.sentry.io
-127.0.0.1 o2.mouseflow.com
-127.0.0.1 oas.openx.net
-127.0.0.1 odb.outbrain.com
-127.0.0.1 offerwall.yandex.net
-127.0.0.1 omtrdc.net
-127.0.0.1 onclickads.net
-127.0.0.1 onetag-sys.com
-127.0.0.1 open.oneplus.net
-127.0.0.1 openx.net
-127.0.0.1 optimized-by.rubiconproject.com
-127.0.0.1 outcome-ssp.supersonicads.com
-127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pangleglobal.com
-127.0.0.1 partnerads.ysm.yahoo.com
-127.0.0.1 partnerstack.com
-127.0.0.1 pippio.com
-127.0.0.1 pixel.adsafeprotected.com
-127.0.0.1 pixel.facebook.com
-127.0.0.1 pixel.mathtag.com
-127.0.0.1 pixel.quantserve.com
-127.0.0.1 pixel.quora.com
-127.0.0.1 pixel.redditmedia.com
-127.0.0.1 pixel.rubiconproject.com
-127.0.0.1 popads.net
-127.0.0.1 popcash.net
-127.0.0.1 popmyads.com
-127.0.0.1 prd.jwpltx.com
-127.0.0.1 prebid.adnxs.com
-127.0.0.1 prf.hn
-127.0.0.1 privacyportal.onetrust.com
-127.0.0.1 prod.u
+2975c.v.fwmrm.net
+a.klaviyo.com
+a.lenovo.com
+a.teads.tv
+aan.amazon.com
+aax.amazon-adsystem.com
+acdn.adnxs.com
+ad.crwdcntrl.net
+ad.doubleclick.net
+ad.gt
+ad.lgappstv.com
+ad.linksynergy.com
+ad.mail.ru
+adc3-launch.adcolony.com
+adclick.g.doubleclick.net
+adfox.yandex.ru
+adfstat.yandex.ru
+adlog.vivo.com
+adm.hotjar.com
+adnxs.com
+adroll.com
+ads-api.tiktok.com
+ads-api.twitter.com
+ads-api.vivo.com
+ads-api.x.com
+ads-sg.tiktok.com
+ads.huawei.com
+ads.linkedin.com
+ads.microsoft.com
+ads.pinterest.com
+ads.pubmatic.com
+ads.roku.com
+ads.snapchat.com
+ads.stickyadstv.com
+ads.tiktok.com
+ads.tremorhub.com
+ads.vizio.com
+ads.vk.com
+ads.x.com
+ads.yahoo.com
+ads.youtube.com
+ads30.adcolony.com
+adserver.unityads.unity3d.com
+adservetx.media.net
+adservice.google.com
+adsfs.oppomobile.com
+adsrvr.org
+adtago.s3.amazonaws.com
+adtech.yahooinc.com
+advertising-api-eu.amazon.com
+advertising.apple.com
+advertising.yahoo.com
+advertising.yandex.ru
+advice-ads.s3.amazonaws.com
+adx.ads.oppomobile.com
+afs.googlesyndication.com
+amazon-adsystem.com
+amoeba.web.roku.com
+an.facebook.com
+analytics-api.samsunghealthcn.com
+analytics-sg.tiktok.com
+analytics.adobe.io
+analytics.google.com
+analytics.pinterest.com
+analytics.pointdrive.linkedin.com
+analytics.query.yahoo.com
+analytics.s3.amazonaws.com
+analytics.tiktok.com
+analytics.twitter.com
+analytics.x.com
+analytics.yahoo.com
+analyticsengine.s3.amazonaws.com
+apex.go.sonobi.com
+api-adservices.apple.com
+api-js.mixpanel.com
+api.ad.xiaomi.com
+api.amplitude.com
+api.bugsnag.com
+api.fyber.com
+api.luckyorange.com
+api.mixpanel.com
+api.mouseflow.com
+api.onesignal.com
+api.optimizely.com
+api.partnerstack.com
+api.rlcdn.com
+api.segment.io
+api.taboola.com
+api.viglink.com
+api.vungle.com
+api2.amplitude.com
+api2.branch.io
+app.adjust.com
+app.appsflyer.com
+app.bugsnag.com
+app.getsentry.com
+app.posthog.com
+app.usercentrics.eu
+applovin.com
+appmetrica.yandex.ru
+appsflyer.com
+as.casalemedia.com
+auction.unityads.unity3d.com
+b.scorecardresearch.com
+bam-cell.nr-data.net
+bam.nr-data.net
+bat.bing.com
+bcp.crwdcntrl.net
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+bea4.v.fwmrm.net
+bidder.criteo.com
+bidswitch.net
+bingads.microsoft.com
+bluekai.com
+bnc.lt
+books-analytics-events.apple.com
+browser-intake-datadoghq.com
+browser.events.data.msn.com
+browser.sentry-cdn.com
+business-api.tiktok.com
+c.amazon-adsystem.com
+c.bing.com
+c.clarity.ms
+c.gumgum.com
+capi.connatix.com
+careers.hotjar.com
+casalemedia.com
+cd.connatix.com
+cdn-test.mouseflow.com
+cdn.cookielaw.org
+cdn.doubleverify.com
+cdn.dynamicyield.com
+cdn.heapanalytics.com
+cdn.indexexchange.com
+cdn.kargo.com
+cdn.lr-ingest.com
+cdn.luckyorange.com
+cdn.mgid.com
+cdn.mouseflow.com
+cdn.onesignal.com
+cdn.optimizely.com
+cdn.permutive.com
+cdn.privacy-mgmt.com
+cdn.rudderlabs.com
+cdn.segment.com
+cdn.siftscience.com
+cdn.taboola.com
+cdn.teads.tv
+cdn.viglink.com
+ck.ads.oppomobile.com
+clarity.ms
+claritybt.freshmarketer.com
+click.googleanalytics.com
+click.linksynergy.com
+click.mailchimp.com
+click.oneplus.cn
+clickadu.com
+clientstream.launchdarkly.com
+cloudflareinsights.com
+cm.g.doubleclick.net
+cmp.inmobi.com
+cmp.osano.com
+cmp.usercentrics.eu
+coinimp.com
+config.samsungads.com
+config.unityads.unity3d.com
+connect.facebook.net
+consent.cookiebot.com
+consent.trustarc.com
+consentcdn.cookiebot.com
+contextual.media.net
+contextweb.com
+control.kochava.com
+cookiebot.com
+criteo.com
+crwdcntrl.net
+cs.luckyorange.net
+ct.pinterest.com
+customer.io
+d.adroll.com
+d.applovin.com
+d.impactradius-event.com
+d.reddit.com
+dai.google.com
+data.ads.oppomobile.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
+dc.ads.linkedin.com
+decide.mixpanel.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+dis.criteo.com
+doubleverify.com
+eb2.3lift.com
+edge.fullstory.com
+eu.posthog.com
+events.hotjar.io
+events.launchdarkly.com
+events.reddit.com
+events.redditmedia.com
+events.segment.io
+events3alt.adcolony.com
+exoclick.com
+extmaps-api.yandex.net
+fastlane.rubiconproject.com
+fingerprintjs.com
+firebase-settings.crashlytics.com
+fls-na.amazon.com
+fpjs.io
+freshmarketer.com
+fundingchoicesmessages.google.com
+fw.adsafeprotected.com
+fwtracks.freshmarketer.com
+g.jwpsrv.com
+gemini.yahoo.com
+geo.yahoo.com
+geolocation.onetrust.com
+globalapi.ad.xiaomi.com
+go.redirectingat.com
+go.skimresources.com
+google-analytics.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+googletagmanager.com
+googletagservices.com
+graph.facebook.com
+graph.instagram.com
+grs.hicloud.com
+gtm.mouseflow.com
+gum.criteo.com
+hbopenbid.pubmatic.com
+htlb.casalemedia.com
+htlbid.com
+i.instagram.com
+iadsdk.apple.com
+ib.adnxs.com
+id5-sync.com
+identify.hotjar.com
+idsync.rlcdn.com
+image6.pubmatic.com
+images.taboola.com
+in.hotjar.com
+indexexchange.com
+info.lgsmartad.com
+ingest.sentry.io
+init.supersonicads.com
+inmobi.com
+insightexpressai.com
+insights.adsrvr.org
+insights.hotjar.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
+ir-na.amazon-adsystem.com
+ironsource.mobi
+js-agent.newrelic.com
+js.driftt.com
+juicyads.com
+kochava.com
+liftoff.io
+list-manage.com
+live.chartboost.com
+log.byteoversea.com
+log.fc.yahoo.com
+log.outbrain.com
+log.pinterest.com
+logbak.hicloud.com
+logs.roku.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logx.optimizely.com
+luckyorange.com
+m.doubleclick.net
+mads-eu.amazon.com
+match.adsrvr.org
+mc.yandex.ru
+mcs-va.tiktokv.com
+media.net
+mediavisor.doubleclick.net
+metrics.adobe.com
+metrics.apple.com
+metrics.brightcove.com
+metrics.data.hicloud.com
+metrics.icloud.com
+metrics.mzstatic.com
+metrics2.data.hicloud.com
+metrika.yandex.ru
+mgid.com
+mineralt.io
+minero.cc
+mon.byteoversea.com
+mon.tiktokv.com
+monerominer.rocks
+mouseflow.com
+ms.applovin.com
+mssl.fwmrm.net
+munchkin.marketo.net
+ngfts.lge.com
+nmetrics.samsung.com
+notes-analytics-events.apple.com
+notify.bugsnag.com
+nr.taboola.com
+o0.ingest.sentry.io
+o2.mouseflow.com
+oas.openx.net
+odb.outbrain.com
+offerwall.yandex.net
+omtrdc.net
+onclickads.net
+onetag-sys.com
+open.oneplus.net
+openx.net
+optimized-by.rubiconproject.com
+outcome-ssp.supersonicads.com
+pagead.l.doubleclick.net
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+pangleglobal.com
+partnerads.ysm.yahoo.com
+partnerstack.com
+pippio.com
+pixel.adsafeprotected.com
+pixel.facebook.com
+pixel.mathtag.com
+pixel.quantserve.com
+pixel.quora.com
+pixel.redditmedia.com
+pixel.rubiconproject.com
+popads.net
+popcash.net
+popmyads.com
+prd.jwpltx.com
+prebid.adnxs.com
+prf.hn
+privacyportal.onetrust.com
+prod.uidapi.com
+propellerads.com
+pubads.g.doubleclick.net
+pubmatic.com
+px.ads.linkedin.com
+px.srvcs.tumblr.com
+qevents.quora.com
+quantcast.com
+quantserve.com
+r.lr-ingest.com
+realtime.luckyorange.com
+redirect.viglink.com
+redirector.googlevideo.com
+refersion.com
+region1.google-analytics.com
+rs.fullstory.com
+rt.applovin.com
+rtb.openx.net
+rudderstack.com
+rum.browser-intake-datadoghq.com
+s.adroll.com
+s.clarity.ms
+s.innovid.com
+s.skimresources.com
+s.youtube.com
+samsung-com.112.2o7.net
+samsungads.com
+sb.scorecardresearch.com
+sc-analytics.appspot.com
+sc-static.net
+script.hotjar.com
+sdk-api-v1.singular.net
+sdk.privacy-center.org
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+secure.adnxs.com
+securepubads.g.doubleclick.net
+servicer.mgid.com
+sessions.bugsnag.com
+settings-win.data.microsoft.com
+settings.luckyorange.net
+shareasale.com
+sharethrough.com
+siftscience.com
+simage2.pubmatic.com
+smartclip.com
+smartclip.net
+smartyads.com
+smetrics.samsung.com
+snap.licdn.com
+snowplowanalytics.com
+ssl.google-analytics.com
+ssl.p.jwpcdn.com
+sslwidget.criteo.com
+st.dynamicyield.com
+statdynamic.com
+static.ads-twitter.com
+static.adsafeprotected.com
+static.criteo.net
+static.doubleclick.net
+static.hotjar.com
+static.klaviyo.com
+static.media.net
+stats.g.doubleclick.net
+stats.wp.com
+surveys.hotjar.com
+sync-tm.everesttech.net
+sync.crwdcntrl.net
+sync.kargo.com
+sync.mathtag.com
+t.skimresources.com
+tagmanager.google.com
+tags.crwdcntrl.net
+tlx.3lift.com
+tools.mouseflow.com
+top-fwz1.mail.ru
+tpc.googlesyndication.com
+tps.doubleverify.com
+tr.facebook.com
+tr.iadsdk.apple.com
+tr.snapchat.com
+track.customer.io
+track.hubspot.com
+track.linksynergy.com
+tracking.miui.com
+tracking.rus.miui.com
+trafficjunky.net
+trc.taboola.com
+tremorhub.com
+trk.pinterest.com
+u.openx.net
+udc.yahoo.com
+udcm.yahoo.com
+upload.luckyorange.net
+us-ads.openx.net
+us.i.posthog.com
+us.info.lgsmartad.com
+vars.hotjar.com
+vid.connatix.com
+vk.com
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
+vungle.com
+w1.luckyorange.com
+watson.telemetry.microsoft.com
+wd.adcolony.com
+webview.unityads.unity3d.com
+widget.intercom.io
+widgets.outbrain.com
+widgets.pinterest.com
+www.anrdoezrs.net
+www.awin1.com
+www.coinimp.com
+www.dpbolvw.net
+www.google-analytics.com
+www.googletagmanager.com
+wzrkt.com
+xp.apple.com
+zenaps.com
