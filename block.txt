@@ -1,8 +1,4 @@
-
-127.0.0.1 localhost
-::1 localhost
-
-# Domenii din capturi
+# Domenii
 127.0.0.1 2975c.v.fwmrm.net
 127.0.0.1 a.klaviyo.com
 127.0.0.1 a.lenovo.com
